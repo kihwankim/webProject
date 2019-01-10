@@ -1,0 +1,47 @@
+@charset "EUC-KR";
+
+form {
+	margin: 0 auto;
+	width: 600px;
+	padding: 2em;
+	border: 2px;
+	border-style: double;
+	border-color: white;
+	border-radius: 1em;
+	background: lightpink;
+}
+
+body {
+	background-color: lightblue;
+	text-aligin: center
+}
+
+span {
+	color: white;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+.subjectDiv {
+	display: flex;
+	justify-content: center;
+}
+
+.subjectDiv select {
+	margin-right: 5px;
+	text-align: center;
+	height: 30px;
+}
+
+.submitNumberOfSubs {
+	display: block;
+	margin: 30px auto;
+}
+
+form input {
+	background: white;
+}

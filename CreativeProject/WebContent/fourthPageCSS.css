@@ -1,0 +1,41 @@
+@charset "EUC-KR";
+
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+.selectForText {
+	margin: 50px auto;
+	text-align: center;
+}
+
+form {
+	margin: 0 auto;
+	width: 600px;
+	padding: 2em;
+	border: 2px;
+	border-style: double;
+	border-color: white;
+	border-radius: 1em;
+	background: lightpink;
+}
+
+
+
+span {
+	color: white;
+}
+
+.send {
+	background: white;
+	margin: 30px 0;
+	width: 180pt;
+	height: 30pt;
+	text-align: center;
+}
