@@ -1,6 +1,6 @@
 # webProject
 
 
-my frist term project
+my first term project
 
 server : Apache Tomcat
